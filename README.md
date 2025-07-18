@@ -1,5 +1,5 @@
 
-# 📘 Snowflake Data Blueprint
+# 📘 Snowflake Data Engineering Blueprint
 
 A project-based learning repo powered by real-world datasets from [data.world](https://data.world) — designed to teach **Snowflake ingestion**, **transformation**, and **monitoring** using scalable ELT pipelines and developer-friendly workflows.
 
