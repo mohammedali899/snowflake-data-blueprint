@@ -1,6 +1,6 @@
 # 📘 Snowflake Data Blueprint
 
-A hands-on learning repo built using public datasets from [data.world](https://data.world), designed to teach real-world data ingestion and pipeline automation using **Snowflake**, **Python**, and **SQL**. This project is aligned with job-ready workflows and interview scenarios.
+Designed to teach Snowflake ingestion using modern tools, scalable workflows, and real-world datasets.
 
 ---
 
